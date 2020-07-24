@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stock Count</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="input"> Input</string>
+    <string name="logut"> Logout </string>
+</resources>

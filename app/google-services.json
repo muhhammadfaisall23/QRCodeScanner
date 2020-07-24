@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74308637940",
+    "firebase_url": "https://testdatabasefirebase-f2e99.firebaseio.com",
+    "project_id": "testdatabasefirebase-f2e99",
+    "storage_bucket": "testdatabasefirebase-f2e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74308637940:android:b22f82d4f82e631505faa1",
+        "android_client_info": {
+          "package_name": "com.faisal.stockcount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74308637940-6bmnh1bvj9ucl5ujn9emu5f7g3m01efh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXr0_e-TpuYWikkjsm5NBxTqyX35bq4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74308637940-6bmnh1bvj9ucl5ujn9emu5f7g3m01efh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
